@@ -7,7 +7,7 @@ public class Conversor {
 
         do {
             System.out.println("Seleccione una opción de conversión:");
-            System.out.println("1.. Kilómetros a millas");
+            System.out.println("1...Kilómetros a millas");
             System.out.println("2. Litros  a galones");
             System.out.println("3. Gramos a onzas");
             System.out.println("4. Centímetros a pulgadas");
